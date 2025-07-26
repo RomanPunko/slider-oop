@@ -3,6 +3,10 @@ body{
   background-color: rgb(121, 91, 91);
 }
 
+button{
+  cursor: pointer;
+}
+
 .slider{
   display: flex;
   flex-direction: row;
